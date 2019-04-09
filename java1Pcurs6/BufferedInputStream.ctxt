@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=BufferedInputStream
+comment1.params=is
+comment1.target=BufferedInputStream(InputStream)
+comment2.params=
+comment2.target=java.lang.String\ readLine()
+numComments=3

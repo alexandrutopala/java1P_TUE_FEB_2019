@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FacebookChat
+comment1.params=msg
+comment1.target=void\ notifyListeners(java.lang.String)
+comment2.params=l
+comment2.target=void\ addListener(Listener)
+numComments=3

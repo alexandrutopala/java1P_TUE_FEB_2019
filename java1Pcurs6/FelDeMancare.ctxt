@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=FelDeMancare
+comment1.params=
+comment1.target=FelDeMancare()
+comment2.params=tip
+comment2.target=FelDeMancare\ getInstance(FelDeMancare.Tip)
+numComments=3
